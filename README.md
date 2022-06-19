@@ -6,4 +6,4 @@
 😄 Pronouns: Her/she
 ⚡ Fun fact: I enjoy horse riding
 
-[STACY KEAGO](https://github.com/stacykeago/stacykeago/blob/main/IMAGES/CODD.png)
+
