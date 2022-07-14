@@ -1,4 +1,5 @@
-### Hi there 👋
+* Hi there 👋
+__
 * 🌱 I’m currently learning ...Deep Learning
 * 👯 I’m looking to collaborate on ... Data Science, NLP,AI, Computer vision projects
 * 💬 Ask me about ... Data Science, Python, SQL, R programming, Machine Learning
